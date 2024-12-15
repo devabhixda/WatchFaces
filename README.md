@@ -5,18 +5,18 @@ Welcome to my collection of custom watchfaces for smartwatches! This repository 
 ## Available Watchfaces
 
 ### 1. CMF
-
+![CMF](https://github.com/devabhixda/WatchFaces/blob/main/screenshots/cmf.png)
 
 A minimalist analog watchface inspired by the Nothing CMF Watch, featuring a sleek dark theme with essential information displayed in circular complications around a classic watch face.
 
-[Download APK](https://example.com/cosmic_explorer.apk)
+[Download APK](https://github.com/devabhixda/WatchFaces/blob/main/build/com.watchfacestudio.cmf.apk)
 
 ### 2. Executive
-
+![Executive](https://github.com/devabhixda/WatchFaces/blob/main/screenshots/executive.png)
 
 A sophisticated digital watchface with a dark gradient background, offering essential information in a clean, quadrant-based layout. Perfect for professionals who need quick access to key data.
 
-[Download APK](https://example.com/vintage_timekeeper.apk)
+[Download APK](https://github.com/devabhixda/WatchFaces/blob/main/build/com.watchfacestudio.executive.apk)
 
 ## Installation Instructions (Wi-Fi ADB)
 
